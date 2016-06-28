@@ -1,0 +1,13 @@
+{
+    "name": "run/routing-tester",
+    "description": "A simple little app to test routing",
+    "authors": [
+        {
+            "name": "Koopzington",
+            "email": "koopzington@gmail.com"
+        }
+    ],
+    "require": {
+        "zendframework/zend-router": "^3.0"
+    }
+}
